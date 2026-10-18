@@ -1,0 +1,254 @@
+[
+  {
+    "fdc_id": 168878,
+    "name": "熟米饭",
+    "original": "Rice, white, long-grain, regular, enriched, cooked",
+    "kcal100": 130.0
+  },
+  {
+    "fdc_id": 168877,
+    "name": "生大米",
+    "original": "Rice, white, long-grain, regular, raw, enriched",
+    "kcal100": 365.0
+  },
+  {
+    "fdc_id": 168914,
+    "name": "熟米粉",
+    "original": "Rice noodles, cooked",
+    "kcal100": 108.0
+  },
+  {
+    "fdc_id": 173424,
+    "name": "水煮鸡蛋",
+    "original": "Egg, whole, cooked, hard-boiled",
+    "kcal100": 155.0
+  },
+  {
+    "fdc_id": 171051,
+    "name": "熟鸡肉（带皮，炖制）",
+    "original": "Chicken, broilers or fryers, meat and skin, cooked, stewed",
+    "kcal100": 219.0
+  },
+  {
+    "fdc_id": 171451,
+    "name": "熟鸡肉（去皮，炖制）",
+    "original": "Chicken, broilers or fryers, meat only, cooked, stewed",
+    "kcal100": 177.0
+  },
+  {
+    "fdc_id": 171478,
+    "name": "熟鸡胸肉（炖制）",
+    "original": "Chicken, broilers or fryers, breast, meat only, cooked, stewed",
+    "kcal100": 151.0
+  },
+  {
+    "fdc_id": 168250,
+    "name": "熟猪里脊（烤制）",
+    "original": "Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted",
+    "kcal100": 143.0
+  },
+  {
+    "fdc_id": 167903,
+    "name": "熟猪肉末",
+    "original": "Pork, fresh, ground, cooked",
+    "kcal100": 297.0
+  },
+  {
+    "fdc_id": 167854,
+    "name": "熟排骨肉（炖制，去骨）",
+    "original": "Pork, fresh, spareribs, separable lean and fat, cooked, braised",
+    "kcal100": 397.0
+  },
+  {
+    "fdc_id": 172409,
+    "name": "烤鸭肉（带皮）",
+    "original": "Duck, domesticated, meat and skin, cooked, roasted",
+    "kcal100": 337.0
+  },
+  {
+    "fdc_id": 168634,
+    "name": "熟牛肉（烤西冷，去脂）",
+    "original": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled",
+    "kcal100": 183.0
+  },
+  {
+    "fdc_id": 175180,
+    "name": "熟虾仁",
+    "original": "Crustaceans, shrimp, cooked",
+    "kcal100": 99.0
+  },
+  {
+    "fdc_id": 173694,
+    "name": "熟鲈鱼肉（干热烹调）",
+    "original": "Fish, sea bass, mixed species, cooked, dry heat",
+    "kcal100": 124.0
+  },
+  {
+    "fdc_id": 175177,
+    "name": "熟罗非鱼肉（干热烹调）",
+    "original": "Fish, tilapia, cooked, dry heat",
+    "kcal100": 128.0
+  },
+  {
+    "fdc_id": 172475,
+    "name": "硬豆腐",
+    "original": "Tofu, raw, firm, prepared with calcium sulfate",
+    "kcal100": 144.0
+  },
+  {
+    "fdc_id": 169392,
+    "name": "熟芥兰",
+    "original": "Broccoli, chinese, cooked",
+    "kcal100": 22.0
+  },
+  {
+    "fdc_id": 170391,
+    "name": "熟小白菜（沥水）",
+    "original": "Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt",
+    "kcal100": 12.0
+  },
+  {
+    "fdc_id": 168463,
+    "name": "熟菠菜（沥水）",
+    "original": "Spinach, cooked, boiled, drained, without salt",
+    "kcal100": 23.0
+  },
+  {
+    "fdc_id": 168437,
+    "name": "熟香菇",
+    "original": "Mushrooms, shiitake, cooked, without salt",
+    "kcal100": 56.0
+  },
+  {
+    "fdc_id": 169999,
+    "name": "熟甜玉米粒",
+    "original": "Corn, sweet, yellow, cooked, boiled, drained, without salt",
+    "kcal100": 96.0
+  },
+  {
+    "fdc_id": 170420,
+    "name": "熟青豌豆",
+    "original": "Peas, green, cooked, boiled, drained, without salt",
+    "kcal100": 84.0
+  },
+  {
+    "fdc_id": 170394,
+    "name": "熟胡萝卜",
+    "original": "Carrots, cooked, boiled, drained, without salt",
+    "kcal100": 35.0
+  },
+  {
+    "fdc_id": 170050,
+    "name": "熟番茄",
+    "original": "Tomatoes, red, ripe, cooked",
+    "kcal100": 18.0
+  },
+  {
+    "fdc_id": 170440,
+    "name": "水煮土豆（去皮）",
+    "original": "Potatoes, boiled, cooked without skin, flesh, without salt",
+    "kcal100": 86.0
+  },
+  {
+    "fdc_id": 169283,
+    "name": "熟毛豆仁",
+    "original": "Soybeans, green, cooked, boiled, drained, without salt",
+    "kcal100": 141.0
+  },
+  {
+    "fdc_id": 169230,
+    "name": "生蒜",
+    "original": "Garlic, raw",
+    "kcal100": 149.0
+  },
+  {
+    "fdc_id": 169231,
+    "name": "生姜",
+    "original": "Ginger root, raw",
+    "kcal100": 80.0
+  },
+  {
+    "fdc_id": 170005,
+    "name": "小葱",
+    "original": "Onions, spring or scallions (includes tops and bulb), raw",
+    "kcal100": 32.0
+  },
+  {
+    "fdc_id": 174277,
+    "name": "酱油",
+    "original": "Soy sauce made from soy and wheat (shoyu)",
+    "kcal100": 53.0
+  },
+  {
+    "fdc_id": 172886,
+    "name": "海鲜酱",
+    "original": "Sauce, hoisin, ready-to-serve",
+    "kcal100": 220.0
+  },
+  {
+    "fdc_id": 172336,
+    "name": "菜籽油",
+    "original": "Oil, canola",
+    "kcal100": 884.0
+  },
+  {
+    "fdc_id": 169655,
+    "name": "白砂糖",
+    "original": "Sugars, granulated",
+    "kcal100": 387.0
+  },
+  {
+    "fdc_id": 169698,
+    "name": "玉米淀粉",
+    "original": "Cornstarch",
+    "kcal100": 381.0
+  },
+  {
+    "fdc_id": 169761,
+    "name": "小麦粉",
+    "original": "Wheat flour, white, all-purpose, unenriched",
+    "kcal100": 364.0
+  },
+  {
+    "fdc_id": 171265,
+    "name": "全脂牛奶",
+    "original": "Milk, whole, 3.25% milkfat, with added vitamin D",
+    "kcal100": 61.0
+  },
+  {
+    "fdc_id": 170872,
+    "name": "低脂牛奶",
+    "original": "Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",
+    "kcal100": 42.0
+  },
+  {
+    "fdc_id": 174924,
+    "name": "白面包",
+    "original": "Bread, white, commercially prepared (includes soft bread crumbs)",
+    "kcal100": 266.0
+  },
+  {
+    "fdc_id": 173944,
+    "name": "香蕉",
+    "original": "Bananas, raw",
+    "kcal100": 89.0
+  },
+  {
+    "fdc_id": 167793,
+    "name": "苹果（富士，带皮）",
+    "original": "Apples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)",
+    "kcal100": 63.0
+  },
+  {
+    "fdc_id": 173647,
+    "name": "饮用水",
+    "original": "Beverages, water, tap, drinking",
+    "kcal100": 0.0
+  },
+  {
+    "fdc_id": 168919,
+    "name": "熟鸡蛋面",
+    "original": "Noodles, egg, cooked, enriched, with added salt",
+    "kcal100": 138.0
+  }
+]

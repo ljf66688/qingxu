@@ -1,0 +1,1038 @@
+{
+  "version": 1,
+  "foods": [
+    {
+      "id": "usda-168878",
+      "name": "熟米饭",
+      "kcal100": 130.0,
+      "category": "主食",
+      "aliases": [
+        "白饭",
+        "白米饭"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168878 · CC0 1.0\nRice, white, long-grain, regular, enriched, cooked\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-168877",
+      "name": "生大米",
+      "kcal100": 365.0,
+      "category": "原料与调味",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168877 · CC0 1.0\nRice, white, long-grain, regular, raw, enriched\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-168914",
+      "name": "熟米粉",
+      "kcal100": 108.0,
+      "category": "主食",
+      "aliases": [
+        "米制面条"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168914 · CC0 1.0\nRice noodles, cooked\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-173424",
+      "name": "水煮鸡蛋",
+      "kcal100": 155.0,
+      "category": "蛋奶",
+      "aliases": [
+        "白煮蛋",
+        "煮鸡蛋"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 173424 · CC0 1.0\nEgg, whole, cooked, hard-boiled\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-171051",
+      "name": "熟鸡肉（带皮，炖制）",
+      "kcal100": 219.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 171051 · CC0 1.0\nChicken, broilers or fryers, meat and skin, cooked, stewed\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-171451",
+      "name": "熟鸡肉（去皮，炖制）",
+      "kcal100": 177.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 171451 · CC0 1.0\nChicken, broilers or fryers, meat only, cooked, stewed\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-171478",
+      "name": "熟鸡胸肉（炖制）",
+      "kcal100": 151.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 171478 · CC0 1.0\nChicken, broilers or fryers, breast, meat only, cooked, stewed\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-168250",
+      "name": "熟猪里脊（烤制）",
+      "kcal100": 143.0,
+      "category": "肉与海鲜",
+      "aliases": [
+        "熟瘦猪肉"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168250 · CC0 1.0\nPork, fresh, loin, tenderloin, separable lean only, cooked, roasted\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-167903",
+      "name": "熟猪肉末",
+      "kcal100": 297.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 167903 · CC0 1.0\nPork, fresh, ground, cooked\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-167854",
+      "name": "熟排骨肉（炖制，去骨）",
+      "kcal100": 397.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 167854 · CC0 1.0\nPork, fresh, spareribs, separable lean and fat, cooked, braised\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-172409",
+      "name": "烤鸭肉（带皮）",
+      "kcal100": 337.0,
+      "category": "肉与海鲜",
+      "aliases": [
+        "烧鸭",
+        "烤鸭"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 172409 · CC0 1.0\nDuck, domesticated, meat and skin, cooked, roasted\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-168634",
+      "name": "熟牛肉（烤西冷，去脂）",
+      "kcal100": 183.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168634 · CC0 1.0\nBeef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-175180",
+      "name": "熟虾仁",
+      "kcal100": 99.0,
+      "category": "肉与海鲜",
+      "aliases": [
+        "白灼虾",
+        "虾肉"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 175180 · CC0 1.0\nCrustaceans, shrimp, cooked\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-173694",
+      "name": "熟鲈鱼肉（干热烹调）",
+      "kcal100": 124.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 173694 · CC0 1.0\nFish, sea bass, mixed species, cooked, dry heat\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-175177",
+      "name": "熟罗非鱼肉（干热烹调）",
+      "kcal100": 128.0,
+      "category": "肉与海鲜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 175177 · CC0 1.0\nFish, tilapia, cooked, dry heat\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-172475",
+      "name": "硬豆腐",
+      "kcal100": 144.0,
+      "category": "豆制品",
+      "aliases": [
+        "豆腐"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 172475 · CC0 1.0\nTofu, raw, firm, prepared with calcium sulfate\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169392",
+      "name": "熟芥兰",
+      "kcal100": 22.0,
+      "category": "蔬菜",
+      "aliases": [
+        "芥藍"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169392 · CC0 1.0\nBroccoli, chinese, cooked\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-170391",
+      "name": "熟小白菜（沥水）",
+      "kcal100": 12.0,
+      "category": "蔬菜",
+      "aliases": [
+        "小棠菜"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 170391 · CC0 1.0\nCabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-168463",
+      "name": "熟菠菜（沥水）",
+      "kcal100": 23.0,
+      "category": "蔬菜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168463 · CC0 1.0\nSpinach, cooked, boiled, drained, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-168437",
+      "name": "熟香菇",
+      "kcal100": 56.0,
+      "category": "蔬菜",
+      "aliases": [
+        "冬菇"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168437 · CC0 1.0\nMushrooms, shiitake, cooked, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169999",
+      "name": "熟甜玉米粒",
+      "kcal100": 96.0,
+      "category": "蔬菜",
+      "aliases": [
+        "粟米"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169999 · CC0 1.0\nCorn, sweet, yellow, cooked, boiled, drained, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-170420",
+      "name": "熟青豌豆",
+      "kcal100": 84.0,
+      "category": "蔬菜",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 170420 · CC0 1.0\nPeas, green, cooked, boiled, drained, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-170394",
+      "name": "熟胡萝卜",
+      "kcal100": 35.0,
+      "category": "蔬菜",
+      "aliases": [
+        "红萝卜"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 170394 · CC0 1.0\nCarrots, cooked, boiled, drained, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-170050",
+      "name": "熟番茄",
+      "kcal100": 18.0,
+      "category": "蔬菜",
+      "aliases": [
+        "西红柿"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 170050 · CC0 1.0\nTomatoes, red, ripe, cooked\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-170440",
+      "name": "水煮土豆（去皮）",
+      "kcal100": 86.0,
+      "category": "主食",
+      "aliases": [
+        "马铃薯",
+        "薯仔"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 170440 · CC0 1.0\nPotatoes, boiled, cooked without skin, flesh, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169283",
+      "name": "熟毛豆仁",
+      "kcal100": 141.0,
+      "category": "豆制品",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169283 · CC0 1.0\nSoybeans, green, cooked, boiled, drained, without salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169230",
+      "name": "生蒜",
+      "kcal100": 149.0,
+      "category": "原料与调味",
+      "aliases": [
+        "蒜蓉",
+        "大蒜"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169230 · CC0 1.0\nGarlic, raw\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169231",
+      "name": "生姜",
+      "kcal100": 80.0,
+      "category": "原料与调味",
+      "aliases": [
+        "姜"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169231 · CC0 1.0\nGinger root, raw\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-170005",
+      "name": "小葱",
+      "kcal100": 32.0,
+      "category": "原料与调味",
+      "aliases": [
+        "葱",
+        "青葱"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 170005 · CC0 1.0\nOnions, spring or scallions (includes tops and bulb), raw\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-174277",
+      "name": "酱油",
+      "kcal100": 53.0,
+      "category": "原料与调味",
+      "aliases": [
+        "生抽"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 174277 · CC0 1.0\nSoy sauce made from soy and wheat (shoyu)\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-172886",
+      "name": "海鲜酱",
+      "kcal100": 220.0,
+      "category": "原料与调味",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 172886 · CC0 1.0\nSauce, hoisin, ready-to-serve\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-172336",
+      "name": "菜籽油",
+      "kcal100": 884.0,
+      "category": "原料与调味",
+      "aliases": [
+        "食用油",
+        "植物油"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 172336 · CC0 1.0\nOil, canola\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169655",
+      "name": "白砂糖",
+      "kcal100": 387.0,
+      "category": "原料与调味",
+      "aliases": [
+        "白糖"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169655 · CC0 1.0\nSugars, granulated\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169698",
+      "name": "玉米淀粉",
+      "kcal100": 381.0,
+      "category": "原料与调味",
+      "aliases": [
+        "生粉"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169698 · CC0 1.0\nCornstarch\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-169761",
+      "name": "小麦粉",
+      "kcal100": 364.0,
+      "category": "原料与调味",
+      "aliases": [
+        "面粉"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 169761 · CC0 1.0\nWheat flour, white, all-purpose, unenriched\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-171265",
+      "name": "全脂牛奶",
+      "kcal100": 61.0,
+      "category": "蛋奶",
+      "aliases": [
+        "牛奶"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 171265 · CC0 1.0\nMilk, whole, 3.25% milkfat, with added vitamin D\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-170872",
+      "name": "低脂牛奶",
+      "kcal100": 42.0,
+      "category": "蛋奶",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 170872 · CC0 1.0\nMilk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-174924",
+      "name": "白面包",
+      "kcal100": 266.0,
+      "category": "主食",
+      "aliases": [
+        "吐司"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 174924 · CC0 1.0\nBread, white, commercially prepared (includes soft bread crumbs)\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-173944",
+      "name": "香蕉",
+      "kcal100": 89.0,
+      "category": "水果",
+      "aliases": [],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 173944 · CC0 1.0\nBananas, raw\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-167793",
+      "name": "苹果（富士，带皮）",
+      "kcal100": 63.0,
+      "category": "水果",
+      "aliases": [
+        "苹果"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 167793 · CC0 1.0\nApples, raw, fuji, with skin (Includes foods for USDA's Food Distribution Program)\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-173647",
+      "name": "饮用水",
+      "kcal100": 0.0,
+      "category": "饮品",
+      "aliases": [
+        "白开水"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 173647 · CC0 1.0\nBeverages, water, tap, drinking\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "usda-168919",
+      "name": "熟鸡蛋面",
+      "kcal100": 138.0,
+      "category": "主食",
+      "aliases": [
+        "熟面条"
+      ],
+      "note": "每100克可食部分；生熟与烹调方式以本条名称和来源原文为准。",
+      "custom": false,
+      "source": "USDA SR Legacy 2018 · FDC 168919 · CC0 1.0\nNoodles, egg, cooked, enriched, with added salt\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-001",
+      "name": "白切鸡（带皮，参考）",
+      "kcal100": 216.272727,
+      "category": "粤式肉菜",
+      "aliases": [
+        "白斩鸡"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重330克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡肉（带皮，炖制） 300克；生姜 5克；小葱 10克；菜籽油 5克；酱油 10克\n配料重按熟制可食部分及调料重计算，整份330克，约713.7千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 171051: Chicken, broilers or fryers, meat and skin, cooked, stewed\nFDC 169231: Ginger root, raw\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-002",
+      "name": "白切鸡（去皮，参考）",
+      "kcal100": 167.230769,
+      "category": "粤式肉菜",
+      "aliases": [
+        "白斩鸡去皮"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重325克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡肉（去皮，炖制） 300克；生姜 5克；小葱 10克；酱油 10克\n配料重按熟制可食部分及调料重计算，整份325克，约543.5千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 169231: Ginger root, raw\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-003",
+      "name": "豉油鸡（参考）",
+      "kcal100": 194.232877,
+      "category": "粤式肉菜",
+      "aliases": [
+        "酱油鸡"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重365克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡肉（带皮，炖制） 300克；酱油 25克；白砂糖 10克；饮用水 30克\n配料重按熟制可食部分及调料重计算，整份365克，约709.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 171051: Chicken, broilers or fryers, meat and skin, cooked, stewed\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 169655: Sugars, granulated\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-004",
+      "name": "姜葱鸡（参考）",
+      "kcal100": 186.256757,
+      "category": "粤式肉菜",
+      "aliases": [
+        "葱姜鸡"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重370克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡肉（去皮，炖制） 300克；生姜 10克；小葱 30克；菜籽油 15克；酱油 15克\n配料重按熟制可食部分及调料重计算，整份370克，约689.1千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 169231: Ginger root, raw\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-005",
+      "name": "盐焗鸡（参考）",
+      "kcal100": 227.483871,
+      "category": "粤式肉菜",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重310克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡肉（带皮，炖制） 300克；生姜 5克；菜籽油 5克\n配料重按熟制可食部分及调料重计算，整份310克，约705.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 171051: Chicken, broilers or fryers, meat and skin, cooked, stewed\nFDC 169231: Ginger root, raw\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-006",
+      "name": "香菇滑鸡（参考）",
+      "kcal100": 143.07932,
+      "category": "粤式肉菜",
+      "aliases": [
+        "冬菇滑鸡"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重353克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡肉（去皮，炖制） 200克；熟香菇 100克；菜籽油 8克；酱油 10克；玉米淀粉 5克；饮用水 30克\n配料重按熟制可食部分及调料重计算，整份353克，约505.1千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 168437: Mushrooms, shiitake, cooked, without salt\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 169698: Cornstarch\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-007",
+      "name": "蒜蓉蒸排骨（参考）",
+      "kcal100": 356.861953,
+      "category": "粤式肉菜",
+      "aliases": [
+        "蒸排骨"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重297克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟排骨肉（炖制，去骨） 250克；生蒜 12克；酱油 10克；菜籽油 5克；饮用水 20克\n配料重按熟制可食部分及调料重计算，整份297克，约1059.9千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 167854: Pork, fresh, spareribs, separable lean and fat, cooked, braised\nFDC 169230: Garlic, raw\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-008",
+      "name": "蒸肉饼（参考）",
+      "kcal100": 224.854545,
+      "category": "粤式肉菜",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重275克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟猪肉末 200克；酱油 10克；玉米淀粉 5克；饮用水 60克\n配料重按熟制可食部分及调料重计算，整份275克，约618.4千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 167903: Pork, fresh, ground, cooked\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 169698: Cornstarch\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-009",
+      "name": "玉米蒸肉饼（参考）",
+      "kcal100": 187.029412,
+      "category": "粤式肉菜",
+      "aliases": [
+        "粟米肉饼"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重340克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟猪肉末 180克；熟甜玉米粒 100克；酱油 10克；饮用水 50克\n配料重按熟制可食部分及调料重计算，整份340克，约635.9千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 167903: Pork, fresh, ground, cooked\nFDC 169999: Corn, sweet, yellow, cooked, boiled, drained, without salt\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-010",
+      "name": "香菇蒸肉饼（参考）",
+      "kcal100": 175.264706,
+      "category": "粤式肉菜",
+      "aliases": [
+        "冬菇肉饼"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重340克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟猪肉末 180克；熟香菇 100克；酱油 10克；饮用水 50克\n配料重按熟制可食部分及调料重计算，整份340克，约595.9千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 167903: Pork, fresh, ground, cooked\nFDC 168437: Mushrooms, shiitake, cooked, without salt\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-011",
+      "name": "叉烧（瘦肉参考配方）",
+      "kcal100": 170.508197,
+      "category": "粤式肉菜",
+      "aliases": [
+        "蜜汁叉烧"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重305克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟猪里脊（烤制） 250克；海鲜酱 25克；白砂糖 15克；酱油 10克；菜籽油 5克\n配料重按熟制可食部分及调料重计算，整份305克，约520.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168250: Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted\nFDC 172886: Sauce, hoisin, ready-to-serve\nFDC 169655: Sugars, granulated\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-012",
+      "name": "清蒸鲈鱼（参考）",
+      "kcal100": 135.985915,
+      "category": "鱼虾",
+      "aliases": [
+        "蒸鱼"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重355克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鲈鱼肉（干热烹调） 300克；生姜 10克；小葱 20克；酱油 15克；菜籽油 10克\n配料重按熟制可食部分及调料重计算，整份355克，约482.8千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 173694: Fish, sea bass, mixed species, cooked, dry heat\nFDC 169231: Ginger root, raw\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-013",
+      "name": "清蒸罗非鱼（参考）",
+      "kcal100": 135.147309,
+      "category": "鱼虾",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重353克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟罗非鱼肉（干热烹调） 300克；生姜 10克；小葱 20克；酱油 15克；菜籽油 8克\n配料重按熟制可食部分及调料重计算，整份353克，约477.1千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 175177: Fish, tilapia, cooked, dry heat\nFDC 169231: Ginger root, raw\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-014",
+      "name": "蒜蓉虾仁（参考）",
+      "kcal100": 127.561404,
+      "category": "鱼虾",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重285克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟虾仁 250克；生蒜 15克；菜籽油 10克；酱油 10克\n配料重按熟制可食部分及调料重计算，整份285克，约363.6千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 169230: Garlic, raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-015",
+      "name": "滑蛋虾仁（参考）",
+      "kcal100": 147.6875,
+      "category": "鱼虾",
+      "aliases": [
+        "虾仁炒蛋"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重320克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟虾仁 150克；水煮鸡蛋 150克；菜籽油 10克；小葱 10克\n配料重按熟制可食部分及调料重计算，整份320克，约472.6千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 172336: Oil, canola\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-016",
+      "name": "芥兰炒牛肉（参考）",
+      "kcal100": 118.037037,
+      "category": "粤式家常",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重378克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟芥兰 200克；熟牛肉（烤西冷，去脂） 150克；菜籽油 12克；酱油 12克；玉米淀粉 4克\n配料重按熟制可食部分及调料重计算，整份378克，约446.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 169392: Broccoli, chinese, cooked\nFDC 168634: Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 169698: Cornstarch\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-017",
+      "name": "蒜蓉芥兰（参考）",
+      "kcal100": 58.62963,
+      "category": "粤式蔬菜",
+      "aliases": [
+        "炒芥兰"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重324克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟芥兰 300克；生蒜 12克；菜籽油 12克\n配料重按熟制可食部分及调料重计算，整份324克，约190.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 169392: Broccoli, chinese, cooked\nFDC 169230: Garlic, raw\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-018",
+      "name": "白灼芥兰（参考）",
+      "kcal100": 36.921875,
+      "category": "粤式蔬菜",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重320克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟芥兰 300克；酱油 15克；菜籽油 5克\n配料重按熟制可食部分及调料重计算，整份320克，约118.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 169392: Broccoli, chinese, cooked\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-019",
+      "name": "蒜蓉小白菜（参考）",
+      "kcal100": 49.37037,
+      "category": "粤式蔬菜",
+      "aliases": [
+        "蒜蓉小棠菜"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重324克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟小白菜（沥水） 300克；生蒜 12克；菜籽油 12克\n配料重按熟制可食部分及调料重计算，整份324克，约160.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 169230: Garlic, raw\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-020",
+      "name": "白灼小白菜（参考）",
+      "kcal100": 27.305994,
+      "category": "粤式蔬菜",
+      "aliases": [
+        "白灼小棠菜"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重317克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟小白菜（沥水） 300克；酱油 12克；菜籽油 5克\n配料重按熟制可食部分及调料重计算，整份317克，约86.6千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-021",
+      "name": "上汤菠菜（参考）",
+      "kcal100": 44.246914,
+      "category": "粤式蔬菜",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重405克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟菠菜（沥水） 250克；水煮鸡蛋 50克；菜籽油 5克；饮用水 100克\n配料重按熟制可食部分及调料重计算，整份405克，约179.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168463: Spinach, cooked, boiled, drained, without salt\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 172336: Oil, canola\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-022",
+      "name": "香菇扒小白菜（参考）",
+      "kcal100": 45.029412,
+      "category": "粤式蔬菜",
+      "aliases": [
+        "冬菇扒小棠菜"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重408克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟小白菜（沥水） 250克；熟香菇 100克；菜籽油 8克；酱油 15克；玉米淀粉 5克；饮用水 30克\n配料重按熟制可食部分及调料重计算，整份408克，约183.7千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 168437: Mushrooms, shiitake, cooked, without salt\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 169698: Cornstarch\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-023",
+      "name": "番茄炒蛋（参考）",
+      "kcal100": 96.625899,
+      "category": "粤式家常",
+      "aliases": [
+        "西红柿炒鸡蛋"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重417克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟番茄 250克；水煮鸡蛋 150克；菜籽油 12克；白砂糖 5克\n配料重按熟制可食部分及调料重计算，整份417克，约402.9千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 170050: Tomatoes, red, ripe, cooked\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 172336: Oil, canola\nFDC 169655: Sugars, granulated\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-024",
+      "name": "家常煎豆腐（参考）",
+      "kcal100": 171.305085,
+      "category": "粤式家常",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重295克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n硬豆腐 250克；菜籽油 15克；酱油 15克；小葱 15克\n配料重按熟制可食部分及调料重计算，整份295克，约505.4千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 172475: Tofu, raw, firm, prepared with calcium sulfate\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-025",
+      "name": "香菇焖豆腐（参考）",
+      "kcal100": 113.316354,
+      "category": "粤式家常",
+      "aliases": [
+        "冬菇豆腐"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重373克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n硬豆腐 200克；熟香菇 100克；菜籽油 8克；酱油 15克；饮用水 50克\n配料重按熟制可食部分及调料重计算，整份373克，约422.7千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 172475: Tofu, raw, firm, prepared with calcium sulfate\nFDC 168437: Mushrooms, shiitake, cooked, without salt\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-026",
+      "name": "虾仁蒸蛋（参考）",
+      "kcal100": 71.41779,
+      "category": "粤式家常",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重371克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n水煮鸡蛋 100克；熟虾仁 80克；饮用水 180克；酱油 8克；菜籽油 3克\n配料重按熟制可食部分及调料重计算，整份371克，约265.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 173647: Beverages, water, tap, drinking\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-027",
+      "name": "水蒸蛋（参考）",
+      "kcal100": 71.172414,
+      "category": "粤式家常",
+      "aliases": [
+        "蒸水蛋",
+        "鸡蛋羹"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重261克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n水煮鸡蛋 100克；饮用水 150克；酱油 8克；菜籽油 3克\n配料重按熟制可食部分及调料重计算，整份261克，约185.8千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 173647: Beverages, water, tap, drinking\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-028",
+      "name": "白粥（参考浓稠度）",
+      "kcal100": 32.5,
+      "category": "粥",
+      "aliases": [
+        "大米粥",
+        "稀饭"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重600克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 150克；饮用水 450克\n配料重按熟制可食部分及调料重计算，整份600克，约195.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-029",
+      "name": "鸡丝粥（参考）",
+      "kcal100": 49.526917,
+      "category": "粥",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重613克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 150克；饮用水 400克；熟鸡肉（去皮，炖制） 60克；生姜 3克\n配料重按熟制可食部分及调料重计算，整份613克，约303.6千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 173647: Beverages, water, tap, drinking\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 169231: Ginger root, raw\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-030",
+      "name": "鲜虾粥（参考）",
+      "kcal100": 41.892333,
+      "category": "粥",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重613克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 150克；饮用水 400克；熟虾仁 60克；生姜 3克\n配料重按熟制可食部分及调料重计算，整份613克，约256.8千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 173647: Beverages, water, tap, drinking\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 169231: Ginger root, raw\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-031",
+      "name": "瘦肉粥（参考）",
+      "kcal100": 46.199021,
+      "category": "粥",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重613克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 150克；饮用水 400克；熟猪里脊（烤制） 60克；生姜 3克\n配料重按熟制可食部分及调料重计算，整份613克，约283.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 173647: Beverages, water, tap, drinking\nFDC 168250: Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted\nFDC 169231: Ginger root, raw\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-032",
+      "name": "香菇鸡粥（参考）",
+      "kcal100": 47.923077,
+      "category": "粥",
+      "aliases": [
+        "冬菇鸡粥"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重650克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 150克；饮用水 400克；熟鸡肉（去皮，炖制） 50克；熟香菇 50克\n配料重按熟制可食部分及调料重计算，整份650克，约311.5千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 173647: Beverages, water, tap, drinking\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 168437: Mushrooms, shiitake, cooked, without salt\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-033",
+      "name": "白切鸡饭（参考，含米饭）",
+      "kcal100": 139.11828,
+      "category": "饭类",
+      "aliases": [
+        "鸡饭"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重465克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；熟鸡肉（带皮，炖制） 120克；熟小白菜（沥水） 80克；酱油 10克；菜籽油 5克\n配料重按熟制可食部分及调料重计算，整份465克，约646.9千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 171051: Chicken, broilers or fryers, meat and skin, cooked, stewed\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-034",
+      "name": "豉油鸡饭（参考，含米饭）",
+      "kcal100": 132.073684,
+      "category": "饭类",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重475克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；熟鸡肉（带皮，炖制） 120克；熟小白菜（沥水） 80克；酱油 20克；白砂糖 5克\n配料重按熟制可食部分及调料重计算，整份475克，约627.4千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 171051: Chicken, broilers or fryers, meat and skin, cooked, stewed\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 169655: Sugars, granulated\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-035",
+      "name": "叉烧饭（参考，含米饭）",
+      "kcal100": 129.021739,
+      "category": "饭类",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重460克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；熟猪里脊（烤制） 100克；海鲜酱 15克；白砂糖 10克；熟小白菜（沥水） 80克；菜籽油 5克\n配料重按熟制可食部分及调料重计算，整份460克，约593.5千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 168250: Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted\nFDC 172886: Sauce, hoisin, ready-to-serve\nFDC 169655: Sugars, granulated\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-036",
+      "name": "烧鸭饭（参考，含米饭）",
+      "kcal100": 161.804348,
+      "category": "饭类",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重460克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；烤鸭肉（带皮） 120克；熟小白菜（沥水） 80克；酱油 10克\n配料重按熟制可食部分及调料重计算，整份460克，约744.3千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 172409: Duck, domesticated, meat and skin, cooked, roasted\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-037",
+      "name": "蛋炒饭（参考）",
+      "kcal100": 159.666667,
+      "category": "饭类",
+      "aliases": [
+        "炒饭"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重390克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；水煮鸡蛋 100克；小葱 15克；菜籽油 15克；酱油 10克\n配料重按熟制可食部分及调料重计算，整份390克，约622.7千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-038",
+      "name": "扬州炒饭（参考）",
+      "kcal100": 142.755319,
+      "category": "饭类",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重470克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；水煮鸡蛋 75克；熟虾仁 50克；熟青豌豆 40克；熟胡萝卜 40克；菜籽油 15克\n配料重按熟制可食部分及调料重计算，整份470克，约671.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 170420: Peas, green, cooked, boiled, drained, without salt\nFDC 170394: Carrots, cooked, boiled, drained, without salt\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-039",
+      "name": "虾仁炒饭（参考）",
+      "kcal100": 146.409091,
+      "category": "饭类",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重440克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；熟虾仁 100克；水煮鸡蛋 50克；小葱 15克；菜籽油 15克；酱油 10克\n配料重按熟制可食部分及调料重计算，整份440克，约644.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-040",
+      "name": "香菇鸡饭（参考，含米饭）",
+      "kcal100": 142.483721,
+      "category": "饭类",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重430克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米饭 250克；熟鸡肉（去皮，炖制） 100克；熟香菇 60克；酱油 12克；菜籽油 8克\n配料重按熟制可食部分及调料重计算，整份430克，约612.7千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168878: Rice, white, long-grain, regular, enriched, cooked\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 168437: Mushrooms, shiitake, cooked, without salt\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-041",
+      "name": "牛肉炒米粉（参考）",
+      "kcal100": 154.761905,
+      "category": "粉面",
+      "aliases": [
+        "干炒牛河",
+        "牛肉河粉"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重420克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米粉 250克；熟牛肉（烤西冷，去脂） 100克；小葱 30克；菜籽油 20克；酱油 20克\n配料重按熟制可食部分及调料重计算，整份420克，约650.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168914: Rice noodles, cooked\nFDC 168634: Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, all grades, cooked, broiled\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-042",
+      "name": "豉油皇炒面（参考）",
+      "kcal100": 168.318885,
+      "category": "粉面",
+      "aliases": [
+        "酱油炒面"
+      ],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重323克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡蛋面 250克；小葱 30克；菜籽油 18克；酱油 20克；白砂糖 5克\n配料重按熟制可食部分及调料重计算，整份323克，约543.7千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168919: Noodles, egg, cooked, enriched, with added salt\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 169655: Sugars, granulated\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-043",
+      "name": "鸡丝炒米粉（参考）",
+      "kcal100": 133.965116,
+      "category": "粉面",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重430克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟米粉 250克；熟鸡肉（去皮，炖制） 80克；熟胡萝卜 50克；小葱 20克；菜籽油 15克；酱油 15克\n配料重按熟制可食部分及调料重计算，整份430克，约576.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168914: Rice noodles, cooked\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 170394: Carrots, cooked, boiled, drained, without salt\nFDC 170005: Onions, spring or scallions (includes tops and bulb), raw\nFDC 172336: Oil, canola\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-044",
+      "name": "鲜虾汤面（参考，含汤）",
+      "kcal100": 60.370597,
+      "category": "粉面",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重653克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡蛋面 200克；熟虾仁 80克；熟小白菜（沥水） 60克；饮用水 300克；酱油 10克；菜籽油 3克\n配料重按熟制可食部分及调料重计算，整份653克，约394.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168919: Noodles, egg, cooked, enriched, with added salt\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 173647: Beverages, water, tap, drinking\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-045",
+      "name": "鸡丝汤面（参考，含汤）",
+      "kcal100": 69.926493,
+      "category": "粉面",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重653克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡蛋面 200克；熟鸡肉（去皮，炖制） 80克；熟小白菜（沥水） 60克；饮用水 300克；酱油 10克；菜籽油 3克\n配料重按熟制可食部分及调料重计算，整份653克，约456.6千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 168919: Noodles, egg, cooked, enriched, with added salt\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 170391: Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt\nFDC 173647: Beverages, water, tap, drinking\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-046",
+      "name": "番茄蛋汤（参考，含汤）",
+      "kcal100": 21.728027,
+      "category": "汤",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重603克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟番茄 150克；水煮鸡蛋 50克；饮用水 400克；菜籽油 3克\n配料重按熟制可食部分及调料重计算，整份603克，约131.0千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 170050: Tomatoes, red, ripe, cooked\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 173647: Beverages, water, tap, drinking\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-047",
+      "name": "玉米鸡肉汤（参考，含肉）",
+      "kcal100": 40.242424,
+      "category": "汤",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重660克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟甜玉米粒 100克；熟鸡肉（去皮，炖制） 80克；熟胡萝卜 80克；饮用水 400克\n配料重按熟制可食部分及调料重计算，整份660克，约265.6千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 169999: Corn, sweet, yellow, cooked, boiled, drained, without salt\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 170394: Carrots, cooked, boiled, drained, without salt\nFDC 173647: Beverages, water, tap, drinking\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-048",
+      "name": "香菇豆腐汤（参考，含配料）",
+      "kcal100": 45.390205,
+      "category": "汤",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重633克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n硬豆腐 150克；熟香菇 80克；饮用水 400克；菜籽油 3克\n配料重按熟制可食部分及调料重计算，整份633克，约287.3千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 172475: Tofu, raw, firm, prepared with calcium sulfate\nFDC 168437: Mushrooms, shiitake, cooked, without salt\nFDC 173647: Beverages, water, tap, drinking\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-049",
+      "name": "清蒸蛋白鸡肉饼（参考）",
+      "kcal100": 120.569444,
+      "category": "粤式家常",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重288克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟鸡肉（去皮，炖制） 150克；水煮鸡蛋 50克；饮用水 80克；酱油 8克\n配料重按熟制可食部分及调料重计算，整份288克，约347.2千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 171451: Chicken, broilers or fryers, meat only, cooked, stewed\nFDC 173424: Egg, whole, cooked, hard-boiled\nFDC 173647: Beverages, water, tap, drinking\nFDC 174277: Soy sauce made from soy and wheat (shoyu)\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    },
+    {
+      "id": "recipe-050",
+      "name": "粟米炒虾仁（参考）",
+      "kcal100": 110.666667,
+      "category": "粤式家常",
+      "aliases": [],
+      "custom": false,
+      "note": "示例配方估算，称食用可食部分；整份参考重360克。配料、用油和含水量不同，热量会变化。带骨菜只称实际食用肉重。",
+      "source": "本项目示例配方（非餐厅实测）\n熟甜玉米粒 150克；熟虾仁 150克；熟胡萝卜 50克；菜籽油 10克\n配料重按熟制可食部分及调料重计算，整份360克，约398.4千卡。为营养近似组合，蒸/煮/炒等食材可能使用下列相近烹调数据；不主张完全等同。\nFDC 169999: Corn, sweet, yellow, cooked, boiled, drained, without salt\nFDC 175180: Crustaceans, shrimp, cooked\nFDC 170394: Carrots, cooked, boiled, drained, without salt\nFDC 172336: Oil, canola\n食材来源：USDA SR Legacy 2018，CC0 1.0\nhttps://fdc.nal.usda.gov/"
+    }
+  ]
+}
