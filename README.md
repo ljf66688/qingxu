@@ -6,6 +6,12 @@
 
 本项目是基于 [OpenNutriTracker v2.4.0](https://github.com/simonoppowa/OpenNutriTracker/tree/v2.4.0) 开发的中文离线衍生版本，原作者为 **[Simon Oppowa（@simonoppowa）](https://github.com/simonoppowa)** 及其贡献者。轻序由 [@ljf66688](https://github.com/ljf66688) 维护，与上游官方发行版区分。代码沿用 **GPLv3**，详见 [LICENSE](LICENSE) 和 [作者与来源](ATTRIBUTION.md)。
 
+## 下载与安装
+
+[下载 Android 安装包（APK，约74.9 MiB）](https://github.com/ljf66688/qingxu/releases/download/v0.1.1/qingxu-v0.1.1-android.apk) · [首个公开版本说明与SHA256校验](https://github.com/ljf66688/qingxu/releases/tag/v0.1.1)
+
+适用于 Android 8.0 及以上。首次安装时，按安卓提示允许当前浏览器或文件管理器安装此来源的应用。安装后的三餐日记为空；无需注册账号。
+
 ## 界面预览
 
 下图来自应用真实组件的自动化截图，使用隔离的示例数据。首次安装的日记为空。
@@ -38,7 +44,7 @@
 
 ## 当前进度
 
-当前离线版本：**0.1.1-offline（versionCode 2）**，目标 Android 8.0 及以上。仓库分享介绍、预览和完整 Flutter 源码；尚未通过本仓库发布 APK 或上架应用商店。
+当前离线版本：**0.1.1-offline（versionCode 2）**，目标 Android 8.0 及以上。仓库分享介绍、预览和完整 Flutter 源码；首个公开 APK 见 [v0.1.1 Releases](https://github.com/ljf66688/qingxu/releases/tag/v0.1.1)。尚未上架应用商店。
 
 已有开发验证记录：专项35项通过，预览测试通过并生成22张截图，全工程静态分析通过，release 构建与签名验证通过。本次仓库发布仅修改文档、忽略规则和参考工作流位置，未重新运行应用构建。此前全量上游测试有2项 Windows IPv6 联网失败；尚未完成安卓真机安装、升级和断网冷启动验证。详见[验证与限制](docs/validation.md)。
 
